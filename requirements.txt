@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+streamlit
+matplotlib
+python-telegram-bot
+gspread
+schedule
